@@ -66,16 +66,17 @@ I'm a passionate full-stack developer with expertise in building robust web appl
 - Technologies: JavaScript (Node.js, Express), MongoDB, JWT Auth, Stripe Payment
 - **[View Figma Design](https://figma.com/design/omov1oWd0HNcQsFVLmjsfX/E-commerce-prototype?node-id=296-140&p=f&t=nakkdmgZ9bWDihe2-0)**
 
+### 📊 GameMeter Analytics Platform
+- **[GameMeterClient](https://github.com/salwa-said/GameMeterClient)** & **[GameMeterServer](https://github.com/salwa-said/GameMeterServer)**
+- Real-time gaming analytics with leaderboards & achievements
+- Technologies: Node.js, MongoDB, Redis, Socket.io, Chart.js
+- **[View Figma Design](https://figma.com/design/51kCFtW5MKLujDlyAtfbpv/GameMeter?node-id=0-1&p=f&t=JREt0psByqoGIvJg-0)**
+
 ### 📚 Class Management System
 - **[Class Management](https://github.com/salwa-said/class-s1-sem2-client)** (Client & Server)
 - Educational platform with client-server architecture
 - Real-world full-stack experience
 - Database integration for course & student management
-
-### 📊 Analytics & Metrics Systems
-- GameMeter - Gaming analytics dashboard
-- MovieMeter - Movie database & rating platform
-- Real-time data tracking & visualization
 
 ---
 
@@ -92,11 +93,13 @@ Currently developing advanced Java applications including:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![Salwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=salwa-said&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salwa-said&layout=compact&theme=radical)
+- 🔭 Currently building full-stack applications
+- 🌱 Learning advanced database optimization & architecture
+- 💻 Active in JavaScript, Java, and SQL development
+- 📚 Continuously expanding knowledge in backend systems
+- 🎨 Combining design skills with development expertise
 
 ---
 
@@ -105,7 +108,7 @@ Currently developing advanced Java applications including:
 - **LinkedIn:** [Salwa Said Al-Zuhibi](https://linkedin.com/in/salwa-said-alzuhibi)
 - **GitHub:** [@salwa-said](https://github.com/salwa-said)
 - **Design Portfolio:** [View on GitHub](https://github.com/salwa-said/design-portfolio)
-- **Email:** Available upon request
+- **Email:** salwwa2000@gmail.com
 
 ---
 
@@ -135,6 +138,7 @@ Currently developing advanced Java applications including:
 | Project | Type | Tech Stack | Status |
 |---------|------|-----------|--------|
 | E-Commerce Bidding | Full-Stack | Node.js, MongoDB, React | ✅ Active |
+| GameMeter Analytics | Full-Stack | Node.js, MongoDB, Redis | ✅ Active |
 | Class Management | Full-Stack | JavaScript, Database | ✅ Active |
 | Design Portfolio | UI/UX Design | Figma | ✅ 6 Projects |
 | Java Development | Backend | Java, Databases | 🔄 In Progress |
@@ -143,7 +147,7 @@ Currently developing advanced Java applications including:
 
 **"Building reliable systems with clean code, efficient databases, and innovative solutions."** ✨
 
-Last updated: August 2026
+Last updated: September 2026
 
 ---
 
